@@ -2,10 +2,11 @@
 
 namespace MediacalAppointment.Domain.Results
 {
-    public class OperationResult<T> where T : class
+    public class OperationResult<TResult>
     {
         public string Message { get; set; }
         public bool Success { get; set; }
-        public T Data { get; set; }
+        public TResult? Data { get; set; }
+        public ICollection<TResult>? DataCollection { get; set; }
     }
 }

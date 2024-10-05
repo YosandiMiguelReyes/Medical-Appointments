@@ -1,0 +1,13 @@
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\bin\Debug\net8.0\MediacalAppointment.Persistence.deps.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\bin\Debug\net8.0\MediacalAppointment.Persistence.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\bin\Debug\net8.0\MediacalAppointment.Persistence.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.AssemblyInfoInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.AssemblyInfo.cs
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.sourcelink.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\refint\MediacalAppointment.Persistence.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\ref\MediacalAppointment.Persistence.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.csproj.AssemblyReference.cache

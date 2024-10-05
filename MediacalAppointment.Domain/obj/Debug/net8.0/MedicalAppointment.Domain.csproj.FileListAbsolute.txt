@@ -1,0 +1,12 @@
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\bin\Debug\net8.0\MedicalAppointment.Domain.deps.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\bin\Debug\net8.0\MedicalAppointment.Domain.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\bin\Debug\net8.0\MedicalAppointment.Domain.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.AssemblyInfoInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.AssemblyInfo.cs
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.sourcelink.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\refint\MedicalAppointment.Domain.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\MedicalAppointment.Domain.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Domain\obj\Debug\net8.0\ref\MedicalAppointment.Domain.dll

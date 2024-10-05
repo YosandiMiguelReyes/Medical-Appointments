@@ -12,6 +12,7 @@
     <Folder Include="Entities\Medical\" />
     <Folder Include="Entities\Insurance\" />
     <Folder Include="Entities\System\" />
+    <Folder Include="Security\" />
   </ItemGroup>
 
 </Project>
