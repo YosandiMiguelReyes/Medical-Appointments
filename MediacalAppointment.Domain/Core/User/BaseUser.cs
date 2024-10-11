@@ -8,6 +8,10 @@ namespace MedicalAppointment.Domain.Core.User
     {
         [Column("PhoneNumber")]
         public string PhoneNumber { get; set; }
+        [Column("Name")]
+        public string Name { get; set; }
+        [Column("LastName")]
+        public string LastName { get; set; }
 
     }
 }

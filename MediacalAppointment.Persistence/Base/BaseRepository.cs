@@ -2,7 +2,6 @@
 using MediacalAppointment.Domain.Results;
 using MediacalAppointment.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using System.Linq.Expressions;
 
 namespace MediacalAppointment.Persistence.Base
@@ -21,6 +20,7 @@ namespace MediacalAppointment.Persistence.Base
 
         public virtual async Task<OperationResult<bool>> Exists(Expression<Func<TEntity, bool>> filter)
         {
+            //La instancia no es necesaria
             OperationResult<bool> result = new OperationResult<bool>();
             try
             {
@@ -36,14 +36,14 @@ namespace MediacalAppointment.Persistence.Base
 
         }
 
-        public virtual async Task<OperationResult<TEntity>> GetAll()
+        public virtual async Task<OperationResult<List<TEntity>>> GetAll()
         {
-            OperationResult<TEntity> result = new OperationResult<TEntity>();
+            OperationResult<List<TEntity>> result = new OperationResult<List<TEntity>>();
 
             try
             {
                 var data = await this.entities.ToListAsync();
-                result.DataCollection = data;
+                result.Data = data;
             }
             catch (Exception ex)
             {

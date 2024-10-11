@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XraWgRyrpU7HXHCZaiEigkhOugRW/9y0z/Hwa5+4TtPYFUMPBxAWaAZC4SLknS5cmj+jejZ4Ae65mTlbyhetw==",
+  "dgSpecHash": "2QPFSWiQJYZxg4Qcx+GGNtBY/2K9znkw9ITVXMKPWCiO1tU/1hierlL/MjxSRr8yoR0cxOG9SFrlBWvDSj5/Vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elyos\\OneDrive\\Escritorio\\New folder (3)\\MediacalAppointment\\MediacalAppointment.Domain\\MedicalAppointment.Domain.csproj",
+  "projectFilePath": "/home/y_m_r/Escritorio/Proyecto/Medical-Appointments/MediacalAppointment.Domain/MedicalAppointment.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
