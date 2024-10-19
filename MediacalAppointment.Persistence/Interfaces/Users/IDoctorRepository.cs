@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using MediacalAppointment.Domain.Repositories;
+using MedicalAppointment.Domain.Entities.Users;
 
 namespace MediacalAppointment.Persistence.Interfaces.Users
 {
-    internal class IDoctorRepository
+    public interface IDoctorRepository : IBaseRepository<Doctors,int>
     {
     }
 }
