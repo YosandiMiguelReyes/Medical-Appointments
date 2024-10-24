@@ -1,10 +1,12 @@
-﻿using MedicalAppointment.Domain.Core.User;
+﻿using MedicalAppointment.Domain.Core.Base;
+using MedicalAppointment.Domain.Core.Interface;
+using MedicalAppointment.Domain.Core.User;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MedicalAppointment.Domain.Entities.Users
 {
     [Table("Doctors", Schema = "users")]
-    public sealed class Doctors : BaseUser
+    public sealed class Doctors : BaseEntity, IUsers, IIsActive
     {
         [ForeignKey("SpecialtyID")]
         public int SpecialtyID { get; set; }
@@ -32,5 +34,13 @@ namespace MedicalAppointment.Domain.Entities.Users
 
         [Column("LicenseExpirationDate")]
         public DateOnly LicenseExpirationDate { get; set; }
+        [Column("FirstName")]
+        public string FirstName { get; set; }
+        [Column("LastName")]
+        public string LastName { get; set; }
+        [Column("PhoneNumber")]
+        public string PhoneNumber { get; set; }
+        [Column("IsActive")]
+        public bool IsActive { get; set; }
     }
 }

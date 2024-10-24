@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Core\Appointment\" />
-    <Folder Include="Core\Insurance\" />
-    <Folder Include="Entities\Medical\" />
-    <Folder Include="Entities\Insurance\" />
-    <Folder Include="Entities\System\" />
     <Folder Include="Security\" />
   </ItemGroup>
 
