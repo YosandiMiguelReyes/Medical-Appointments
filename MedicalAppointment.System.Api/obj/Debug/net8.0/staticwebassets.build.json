@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CLwW7+O/g3ARLj9onESQpdQLstSM2Y4CSPy8qyLCitY=",
+  "Source": "MedicalAppointment.System.Api",
+  "BasePath": "_content/MedicalAppointment.System.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

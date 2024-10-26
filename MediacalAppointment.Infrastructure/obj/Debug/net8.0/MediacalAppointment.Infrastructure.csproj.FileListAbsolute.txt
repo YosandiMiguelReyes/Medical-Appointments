@@ -1,0 +1,12 @@
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\bin\Debug\net8.0\MediacalAppointment.Infrastructure.deps.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\bin\Debug\net8.0\MediacalAppointment.Infrastructure.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\bin\Debug\net8.0\MediacalAppointment.Infrastructure.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.AssemblyInfo.cs
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.sourcelink.json
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\refint\MediacalAppointment.Infrastructure.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\MediacalAppointment.Infrastructure.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Infrastructure\obj\Debug\net8.0\ref\MediacalAppointment.Infrastructure.dll

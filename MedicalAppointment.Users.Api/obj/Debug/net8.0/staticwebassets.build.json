@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NaNqKf1x6KTDE0TeTLXEZFFU/4T9CUPTD7uZTmYdx/c=",
+  "Source": "MedicalAppointment.Users.Api",
+  "BasePath": "_content/MedicalAppointment.Users.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

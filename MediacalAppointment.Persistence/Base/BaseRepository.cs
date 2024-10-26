@@ -18,7 +18,7 @@ namespace MediacalAppointment.Persistence.Base
             this.entities = _medicalAppointmentContext.Set<TEntity>();
         }
 
-        public virtual async Task<OperationResult<bool>> Exists(Expression<Func<TEntity, bool>> filter)
+        public virtual async Task<OperationResult<bool>> Exists(Expression<Func<TEntity,bool>> filter)
         {
             //La instancia no es necesaria
             OperationResult<bool> result = new OperationResult<bool>();
@@ -26,6 +26,7 @@ namespace MediacalAppointment.Persistence.Base
             {
                 var exists = await this.entities.AnyAsync(filter);
                 result.Data = exists;
+                result.Success = true;
             }
             catch (Exception ex)
             {
@@ -42,7 +43,7 @@ namespace MediacalAppointment.Persistence.Base
 
             try
             {
-                var data = await this.entities.ToListAsync();
+                var data = await entities.ToListAsync();
                 result.Data = data;
             }
             catch (Exception ex)

@@ -24,7 +24,7 @@ namespace MedicalAppointment.Domain.Entities.Users
         public string? Bio { get; set; }
 
         [Column("ConsultationFee")]
-        public decimal? ConsultationFee { get; set; }
+        public double? ConsultationFee { get; set; }
 
         [Column("ClinicAddress")]
         public string? ClinicAddress { get; set; }
@@ -42,5 +42,7 @@ namespace MedicalAppointment.Domain.Entities.Users
         public string PhoneNumber { get; set; }
         [Column("IsActive")]
         public bool IsActive { get; set; }
+        [Column("Email")]
+        public string Email {  get; set; }
     }
 }

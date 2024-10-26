@@ -11,3 +11,6 @@ C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAp
 C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.pdb
 C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\ref\MediacalAppointment.Persistence.dll
 C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.csproj.AssemblyReference.cache
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\bin\Debug\net8.0\MedicalAppointment.Domain.dll
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\bin\Debug\net8.0\MedicalAppointment.Domain.pdb
+C:\Users\elyos\OneDrive\Escritorio\New folder (3)\MediacalAppointment\MediacalAppointment.Persistence\obj\Debug\net8.0\MediacalAppointment.Persistence.csproj.CopyComplete

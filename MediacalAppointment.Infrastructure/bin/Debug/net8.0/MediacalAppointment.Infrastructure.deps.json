@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MediacalAppointment.Infrastructure/1.0.0": {
+        "runtime": {
+          "MediacalAppointment.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediacalAppointment.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

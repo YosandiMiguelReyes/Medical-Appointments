@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediacalAppointment.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c8149da7d6098e5f0a9ef637c507c0f5f9cb629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d64ff106b1dc3ff821c542bdecd5540d41cb78c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediacalAppointment.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediacalAppointment.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iTpw/ajZuuc33BaaN5lzyD0xYDdSlVgivcRxq+NBYrs=",
+  "Source": "MedicalAppointment.Insurance.Api",
+  "BasePath": "_content/MedicalAppointment.Insurance.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
